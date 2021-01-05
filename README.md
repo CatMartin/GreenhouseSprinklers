@@ -8,4 +8,5 @@ Become friends with the Wizard and he'll send Robin some blueprints for you to u
 
 ## Translations
 
-* French - Azurys
+* French - [Azurys](github.com/Azurys)
+* Portuguese - [Caco-o-sapo](github.com/Caco-o-sapo)
